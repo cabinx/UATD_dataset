@@ -1,5 +1,5 @@
 # UATD_dataset
- A multibeam forward looking sonar(NFLS) dataset for underwater object detection
+ A multibeam forward looking sonar(MFLS) dataset for underwater object detection
  
  [Paper](https://doi.org/10.1038/s41597-022-01854-w)
  
